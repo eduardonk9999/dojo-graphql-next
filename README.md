@@ -33,10 +33,3 @@ $ docker-compose -f docker-compose.yml up
 $ npx prisma studio
 ```
 
-### 🛠 Tecnologias
-- Next JS
-- GraphQl 
-- Apollo Server / Apollo Client
-- Prisma
-- PostgreSQL
-- Docker
